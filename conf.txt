@@ -1,1 +1,1 @@
-conflict2
+This is the content from bran-2.
