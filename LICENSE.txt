@@ -1,1 +1,1 @@
-This is the initial license txt
+This is the updated license text from update-license branch.
